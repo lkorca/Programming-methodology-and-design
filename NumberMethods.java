@@ -29,7 +29,7 @@ public class NumberMethods{
 	public static double percentage(int n1, int n2){
 		
 	}
-	public static double solveEquatiom(double n1, double n2){
+	public static double solveEquatiom(double a, double b){
 		
 	}
 }
